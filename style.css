@@ -1,0 +1,7 @@
+.jumbotron{
+    background: skyblue;
+    border-radius: 5px;
+}
+.card-header{
+    font-weight: bolder ;
+}
